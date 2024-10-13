@@ -1,6 +1,6 @@
 # Movie Recommendation Chatbot
-
-A Flutter application that provides movie recommendations based on user diary entries. This app leverages the Google Gemini API to generate tailored movie suggestions, making it a fun and interactive way to discover new films.
+- Used Google gemini api instead of OpenAI api because it was asking for credits which could be purchased through money only. the free version no longer generates responses.
+- A Flutter application that provides movie recommendations based on user diary entries. This app leverages the Google Gemini API to generate tailored movie suggestions, making it a fun and interactive way to discover new films.
 
 ## Table of Contents
 
